@@ -2,7 +2,6 @@
 
 # Water Bill Calculation
 
-
 # Input current consumption
 consumption = int(input("Enter your current consumption in cubic meter:"))
 
