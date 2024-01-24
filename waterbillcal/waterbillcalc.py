@@ -26,4 +26,4 @@ penalty_balance = 0.00
 total_amount_due = total_current_bill + meter_maintainance_fee + septage_fee
 
 
-print(round(total_amount_due, 2))
+#print(round(total_amount_due, 2))
